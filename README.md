@@ -12,3 +12,4 @@
 ![springboot](https://img.shields.io/badge/-springboot-66EF12?style=for-the-badge&logo=springboot&logoColor=#6DB33F)
 ![spring](https://img.shields.io/badge/-spring-94C279?style=for-the-badge&logo=spring&logoColor=#6DB33F)
 ![springsecurity](https://img.shields.io/badge/-springsecurity-E0651B?style=for-the-badge&logo=springsecurity&logoColor=#6DB33F)
+![mysql](https://img.shields.io/badge/-mysql-1BDDE0?style=for-the-badge&logo=mysql&logoColor=#4479A1)
