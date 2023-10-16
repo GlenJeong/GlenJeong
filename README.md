@@ -11,3 +11,4 @@
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
 ![springboot](https://img.shields.io/badge/-springboot-66EF12?style=for-the-badge&logo=springboot&logoColor=#6DB33F)
 ![spring](https://img.shields.io/badge/-spring-94C279?style=for-the-badge&logo=spring&logoColor=#6DB33F)
+![springsecurity](https://img.shields.io/badge/-springsecurity-E0651B?style=for-the-badge&logo=springsecurity&logoColor=#6DB33F)
