@@ -2,15 +2,15 @@
 
 My goal is to become a highly proficient web developer who not only creates functional and innovative web solutions but also ensures a seamless and user-centric experience. I am committed to continuous learning, adapting to new technologies, and delivering projects with professionalism and attention to detail.
 
-#### Professionalism
-#### Adaptability
-#### Attention to Detail
-#### Problem-Solving
-#### Creativity
-#### Teamwork
-#### Communication
-#### Continuous Learning
-#### Persistence
+### Professionalism
+### Adaptability
+### Attention to Detail
+### Problem-Solving
+### Creativity
+### Teamwork
+### Communication
+### Continuous Learning
+### Persistence
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
