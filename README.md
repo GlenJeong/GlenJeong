@@ -1,4 +1,4 @@
-## Hi there, This is Glenn Jeong  👋
+## Hi there, This is Glenn Jeong, a developers who always try new things and enjoy learning.  👋
 
 My goal is to become a highly proficient web developer who not only creates functional and innovative web solutions but also ensures a seamless and user-centric experience. I am committed to continuous learning, adapting to new technologies, and delivering projects with professionalism and attention to detail.
 
